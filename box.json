@@ -1,0 +1,79 @@
+{
+    "spider": "",
+    "wallpaper": "",
+    "sites": [
+        {
+            "key": "ftying",
+            "name": "饭太硬",
+            "type": 4,
+            "api": "http://www.饭太硬.cc/tv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "feimao",
+            "name": "肥猫仓",
+            "type": 4,
+            "api": "http://肥猫.live",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "moyuer",
+            "name": "摸鱼儿",
+            "type": 4,
+            "api": "http://我不是.摸鱼儿.cc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "xyq",
+            "name": "香雅情",
+            "type": 4,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "pyramid",
+            "name": "霜辉月明",
+            "type": 4,
+            "api": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "moon",
+            "name": "月光宝盒多仓",
+            "type": 4,
+            "api": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
+    ],
+    "parses": [],
+    "rules": [],
+    "ads": [],
+    "lives": [
+        {
+            "name": "高清直播源",
+            "type": 0,
+            "url": "https://live.zbds.top/tv/iptv6.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "Meroser直播",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ]
+}
